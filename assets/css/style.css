@@ -1,12 +1,14 @@
 /* Universal selector */
 /* Box-sizing: defines how width and height of the element are calculated */
+/* Padding: used for creating space around an element's content that is INSIDE of defined borders */
+/* Margin: used for creating space around an element's content that is INSIDE of defined borders */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
-/* Element selectors */
+/* Element selectors: the background color here is specified for what is within the <body> */
 body {
     background-color: #d9dcd6;
 }
@@ -19,6 +21,7 @@ body {
     color: #ffffff;
 }
 
+/* Inline-block: here it allows for the navigation links to sit in the same line as the actual heading of the webpage */
 .header h1 {
     display: inline-block;
     font-size: 48px;                                                                                                                                                                                                         
@@ -38,6 +41,7 @@ body {
     font-size: 20px;
 }
 
+/* list-style-type: selects for the appearance of bullet points; here there is none */
 .header div ul {
     list-style-type: none;
 }
@@ -125,6 +129,7 @@ p {
     text-align: center;
 }
 
+/* Block: will take up the whole width, and allow for the image here to start on a new line */
 .benefit-lead img {
     display: block;
     margin: 10px auto;
