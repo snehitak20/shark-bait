@@ -29,6 +29,7 @@ body {
     color: #d9dcd6;
 }  
   
+/* Selects for all <div> elements within <header> */
 .header div {
     padding-top: 15px;
     margin-right: 20px;
@@ -51,6 +52,7 @@ a {
     text-decoration: none;
 }
 
+/* All <p> elements will have this font size */
 p {
     font-size: 16px;
 }
@@ -195,6 +197,7 @@ p {
     font-size: 36px;
 }
 
+/* Selects for everything within <footer> */
 .footer {
     padding: 30px;
     clear: both;
