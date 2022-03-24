@@ -1,4 +1,5 @@
 /* Universal selector */
+/* Box-sizing: defines how width and height of the element are calculated */
 * {
     box-sizing: border-box;
     padding: 0;
@@ -10,6 +11,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/* Font-family: specifies the font-family for the text; here it is for the header */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -19,13 +21,14 @@ body {
 
 .header h1 {
     display: inline-block;
-    font-size: 48px;
+    font-size: 48px;                                                                                                                                                                                                         
 }
 
+/* Selects all elements with *seo* that descends from an element with *header* */
 .header h1 .seo {
     color: #d9dcd6;
-}
-
+}  
+  
 .header div {
     padding-top: 15px;
     margin-right: 20px;
@@ -52,6 +55,7 @@ p {
     font-size: 16px;
 }
 
+/* Class selectors: selects all elements with class */
 .hero {
     height: 800px;
     width: 100%;
@@ -61,6 +65,7 @@ p {
     background-position: center;
 }
 
+/* float: determines whether an element floats to the left or right, or not at all */
 .float-left {
     float: left;
     margin-right: 25px;
