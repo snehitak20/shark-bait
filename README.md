@@ -6,8 +6,8 @@ The goal of this project is to ultimately have a webpage that is optimized for s
 
 For this project, the main objective was to refactor the code so that it would follow HTML semantics and proper code semantics. It should also maintain its current appearance despite any changes that were made to refactor the code. As such, the webiste title was renamed to a more descriptive title that is indicative of the webpage. Tags such as `<section>, <article>, <footer>, <header>` were used to replace `<div>` tags, and helped to create a logical and semantic structure. For images, accessible alt attributes were written. Heading attributes were confirmed to be in sequential order. In the style.css file, comments were written to indicate the various CSS selectors and their functions that were used for this project. 
 
-![CSS screenshot with CSS file comments](C:\Users\snehi\Desktop\shark-bait\assets\images\CSS-snapshot.jpg)
-![HTML screenshots with the different tag changes](C:\Users\snehi\Desktop\shark-bait\assets\images\HTML-screenshot.jpg)
+![CSS screenshot with CSS file comments](C:\Users\snehi\Desktop\shark-bait\assets\images\CSS.png)
+![HTML screenshots with the different tag changes](C:\Users\snehi\Desktop\shark-bait\assets\images\HTML.png)
 
 [Link to webpage](https://snehitak20.github.io/shark-bait/)
 
