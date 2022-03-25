@@ -8,8 +8,6 @@ For this project, the main objective was to refactor the code so that it would f
 
 <img src="./assets/images/CSS.png" alt="CSS screenshot with CSS file comments">
 <img src="./assets/images/HTML.png" alt="HTML screenshot with the different tag changes">
-![CSS screenshot with CSS file comments](C:\Users\snehi\Desktop\shark-bait\assets\images\CSS.png)
-![HTML screenshot with the different tag changes](C:\Users\snehi\Desktop\shark-bait\assets\images\HTML.png)
 
 [Link to webpage](https://snehitak20.github.io/shark-bait/)
 
