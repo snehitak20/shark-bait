@@ -6,6 +6,9 @@ The goal of this project is to ultimately have a webpage that is optimized for s
 
 For this project, the main objective was to refactor the code so that it would follow HTML semantics and proper code semantics. It should also maintain its current appearance despite any changes that were made to refactor the code. As such, the webiste title was renamed to a more descriptive title that is indicative of the webpage. Tags such as `<section>, <article>, <footer>, <header>` were used to replace `<div>` tags, and helped to create a logical and semantic structure. For images, accessible alt attributes were written. Heading attributes were confirmed to be in sequential order. In the style.css file, comments were written to indicate the various CSS selectors and their functions that were used for this project. 
 
+/assets/images/CSS-snapshot.jpg
+/assets/images/HTML-screenshot.jpg
+
 [Link to webpage](https://snehitak20.github.io/shark-bait/)
 
 ## Installation
@@ -18,10 +21,10 @@ To complete a project like this, follow these steps.
     - Click the "README" option to include the "README" page. 
     - Your new repository has been created.
 2. Open GitBash (PC users) or Terminal (Mac users).
-    - Navigate to where you want to clone your new repository to on your local machine. 
+    - Navigate to where you want to clone your new repository onto your local machine. 
         - Use `cd` to help you navigate. 
 3. To clone the new repository onto your local machine. 
-    - Click the respository that you just made on (github.com).
+    - Click the respository that you just made on github.com.
     - Click the "code" button and choose the SSH option. 
     - Copy the SSH option to your clipboard. 
     - On GitBash/Terminal, enter the command `git clone git@github.com:<UserNAME>/<demo-repo>.git`
@@ -52,6 +55,10 @@ To complete a project like this, follow these steps.
 ## Usage
 
 To navigate this webpage, click one of the links in the navigation bar that will lead you to the appropriate area of the website.
+
+## Credits
+
+The original code was given by UC Berkeley Extension, Coding Bootcamp.
 
 ## Reflection
 
