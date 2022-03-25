@@ -4,7 +4,7 @@
 
 The goal of this project is to ultimately have a webpage that is optimized for search engines, and whose codebase will meet accessibility standards. The codebase follows semantic HTML elements, has accessible alt attributes, and has a descriptive title. The codebase will also have sequential heading attributes, and follow a logical structure. 
 
-For this project, the main objective was to refactor the code so that it would follow HTML semantics and proper code semantics. It should also maintain its current appearance despite any changes that were made to refactor the code. As such, the webiste title was renamed to a more descriptive title that is indicative of the webpage. Tags such as `<section>, <article>, <footer>, <header>` were used to replace `<div>` tags, and helped to create a logical and semantic structure. For images, accessible alt attributes were written. Heading attributes were confirmed to be in sequential order. In the style.css file, comments were written to indicate the various CSS selectors and their functions that were used for this project. 
+For this project, the main objective was to refactor the code so that it would follow HTML semantics and proper code semantics. It should also maintain its current appearance despite any changes that were made to refactor the code. As such, the webiste title was renamed to a more descriptive title that is indicative of the webpage. Tags such as `<section>, <article>, <footer>, <header>` were used to replace `<div>` tags, and helped to create a logical and semantic structure. For images, accessible alt attributes were written. Heading attributes were confirmed to be in sequential order. In the style.css file, common selectors and properties were consolidated under new names, and organized so the file will follow semantic structure. Comments were written to indicate the various changes to the CSS file, and to explain the CSS properties and their functions that were used for this project. 
 
 <img src="./assets/images/CSS.png" alt="CSS screenshot with CSS file comments">
 <img src="./assets/images/HTML.png" alt="HTML screenshot with the different tag changes">
@@ -62,7 +62,7 @@ The original code was given by UC Berkeley Extension, Coding Bootcamp.
 
 ## Reflection
 
-For this project, it was important to learn what HTML semantics are. Additionally, it was important to know what webpage accessibility standarda are. To create a logical structure in the HTML file, it was important to know which HTML semantics were most appropriate to us. This project stands out because it follows the requirements that are needed for an accessible webpage.
+For this project, it was important to learn what HTML semantics are. Additionally, it was important to know what webpage accessibility standarda are. To create a logical structure in the HTML file, it was important to know which HTML semantics were most appropriate to use. This project stands out because it follows the requirements that are needed for an accessible webpage.
 
 ## License
 
