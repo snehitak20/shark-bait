@@ -6,8 +6,8 @@ The goal of this project is to ultimately have a webpage that is optimized for s
 
 For this project, the main objective was to refactor the code so that it would follow HTML semantics and proper code semantics. It should also maintain its current appearance despite any changes that were made to refactor the code. As such, the webiste title was renamed to a more descriptive title that is indicative of the webpage. Tags such as `<section>, <article>, <footer>, <header>` were used to replace `<div>` tags, and helped to create a logical and semantic structure. For images, accessible alt attributes were written. Heading attributes were confirmed to be in sequential order. In the style.css file, comments were written to indicate the various CSS selectors and their functions that were used for this project. 
 
-/assets/images/CSS-snapshot.jpg
-/assets/images/HTML-screenshot.jpg
+![CSS screenshot with CSS file comments](.assets/images/CSS-snapshot.jpg)
+![HTML screenshots with the different tag changes](.assets/images/HTML-screenshot.jpg)
 
 [Link to webpage](https://snehitak20.github.io/shark-bait/)
 
@@ -62,7 +62,7 @@ The original code was given by UC Berkeley Extension, Coding Bootcamp.
 
 ## Reflection
 
-For this project, I had to learn what is the proper flow of a webpage that follows HTML semantics. I also had to learn to use which HTML semantic elements were most appropriate for this project. This project stands out because it follows the requirements that are needed for an accessible webpage.
+For this project, it was important to learn what HTML semantics are. Additionally, it was important to know what webpage accessibility standarda are. To create a logical structure in the HTML file, it was important to know which HTML semantics were most appropriate to us. This project stands out because it follows the requirements that are needed for an accessible webpage.
 
 ## License
 
